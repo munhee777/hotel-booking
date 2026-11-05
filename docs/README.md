@@ -1,8 +1,8 @@
 # 제주 야호 자료실
 
-프로젝트 구조와 데이터를 이해할 수 있는 자료, 발표자료, 시연 영상을 모아둔 곳입니다.
+서비스 설계, 데이터 구조, 발표자료와 시연 영상을 모았습니다.
 
-## ERD 및 아키텍처
+## 서비스 구조와 데이터베이스
 
 - [서비스 아키텍처 보기](https://github.com/user-attachments/assets/57a36a6c-73d3-4436-b362-42bf11c70f76)
 - [데이터베이스 ERD 보기](https://github.com/user-attachments/assets/4aabbe46-8036-416b-93a0-e48abe5641bc)
@@ -17,10 +17,9 @@
 
 ## 발표자료
 
-- 발표자료(PPT/PDF): 링크 추가 필요
+- [제주 야호 프로젝트 제안서 (PDF)](./jeju-proposal.pdf)
+- [제주 야호 프로젝트 발표자료 초안 (PDF)](./jeju-presentation-draft.pdf)
 
 ## 시연 영상
 
-- 프로젝트 시연 영상: 링크 추가 필요
-
-> 발표자료와 시연 영상 주소를 받으면 위 항목에 바로 연결하겠습니다.
+- [제주 야호 프로젝트 시연 영상 (Google Drive)](https://drive.google.com/file/d/1aLvJOjhpbnPIAw_CgQL5NRQCfP8i47C7/view?usp=share_link)
